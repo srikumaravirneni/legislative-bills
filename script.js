@@ -1,5 +1,5 @@
 const API_KEY = "b5d8806ecc9fea790f994448baa24b15";
-const state = "GA";
+const state = "CA";
 
 const bills = [];
 let billCount = 0;
